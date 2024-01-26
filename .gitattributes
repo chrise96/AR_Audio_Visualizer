@@ -3,4 +3,5 @@
 *.m linguist-vendored
 *.c linguist-vendored
 *.cpp linguist-vendored
+*.mm linguist-vendored
 
