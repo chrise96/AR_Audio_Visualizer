@@ -1,0 +1,6 @@
+# Exclude Objective-C, C, and C++ code from language statistics
+*.h linguist-vendored
+*.m linguist-vendored
+*.c linguist-vendored
+*.cpp linguist-vendored
+
